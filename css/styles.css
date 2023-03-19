@@ -223,10 +223,10 @@ a:hover {
 .btn-outline-sm {
 	display: inline-block;
 	padding: 1rem 1.5rem 1rem 1.5rem;
-	border: 1px solid #cc2973;
+	border: 1px solid #3abe2e;
 	border-radius: 30px;
 	background-color: transparent;
-	color: #cc2973;
+	color: #29cc31;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0;
@@ -235,10 +235,31 @@ a:hover {
 }
 
 .btn-outline-sm:hover {
-	background-color: #cc2973;
+	background-color: #4cbe35;
 	color: #ffffff;
 	text-decoration: none;
 }
+.btn-outline-sm2 {
+	display: inline-block;
+	margin-left: 10px;
+	padding: 1rem 1.5rem 1rem 1.5rem;
+	border: 1px solid #2e3cbe;
+	border-radius: 30px;
+	background-color: transparent;
+	color: #2e3cbe;
+	font-weight: 600;
+	font-size: 0.875rem;
+	line-height: 0;
+	text-decoration: none;
+	transition: all 0.2s;
+}
+
+.btn-outline-sm2:hover {
+	background-color: #2e3cbe;
+	color: #ffffff;
+	text-decoration: none;
+}
+
 
 .form-group {
 	position: relative;
