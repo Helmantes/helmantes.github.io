@@ -765,6 +765,8 @@ a:hover {
 /*     Invitation     */
 /**********************/
 .basic-4 {
+	position: relative;
+	overflow: hidden;
 	padding-top: 9.25rem;
 	padding-bottom: 9.75rem;
 	text-align: center;
